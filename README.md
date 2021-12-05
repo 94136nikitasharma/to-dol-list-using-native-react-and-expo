@@ -1,1 +1,1 @@
-# to-dol-list-using-native-react-and-expo
+# to-dol-list-using-native-react
